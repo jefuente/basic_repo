@@ -1,4 +1,4 @@
 packages/
-/secret.js
+/secrets.js
 *.txt
 log*
