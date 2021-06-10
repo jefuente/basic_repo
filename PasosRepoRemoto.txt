@@ -1,0 +1,15 @@
+Crear un nuevo repo en GitHub llamado basic_repo
+Crear un repo local también llamado basic_repo
+Crear algunos archivos dentro de tu repo y agrega algo de contenido en ellos
+Agregar, confirmar y empujar los cambios a GitHub:
+	git init
+	git add .
+	git commit -m "primera version"
+	git remote add origin https://github.com/jefuente/basic_repo.git
+	git push -u origin master
+Hacer algunos cambios más en la copia local y empujarlos a GitHub:
+	git add .
+	git commit -m "segunda version"
+	git push
+Ve a tu cuenta de GitHub y mira tu nuevo repo y los cambios que has hecho
+Sube un archivo .txt simple con la descripción de los pasos que tomaste
